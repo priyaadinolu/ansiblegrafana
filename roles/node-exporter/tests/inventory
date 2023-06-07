@@ -1,2 +1,5 @@
+monitorserver:
 localhost
-
+nodeservers:
+172.31.32.194
+172.31.1.135
